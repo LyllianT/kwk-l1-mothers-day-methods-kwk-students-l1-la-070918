@@ -6,7 +6,7 @@ def mothers_day(hello = "Happy Mother's Day, Mom!")
 end
 mothers_day
 
-def mothers_day(hellos = "Happy Mother's Day, Beyonce")
+def mothers_day(hellos = "Happy Mother's Day, Beyonce!")
   puts "#{hellos}"
 end
 mothers_day
