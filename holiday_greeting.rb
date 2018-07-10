@@ -1,2 +1,2 @@
-name = get.strip
+name = gets.strip
 puts "Welcome, #{name}"
