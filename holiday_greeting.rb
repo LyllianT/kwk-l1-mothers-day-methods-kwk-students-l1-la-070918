@@ -1,5 +1,5 @@
 name = gets.strip
 puts "Welcome, #{name}"
 
-def holiday_greeting(go = "Beyonce", mercy = "Jay-Z", holi = "Fourth of July")
-  puts "Happy #{holi}, #{go]"
+def holiday_greeting("Beyonce","Jay-Z","Fourth of July")
+  puts "Happy "
