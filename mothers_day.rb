@@ -6,7 +6,7 @@ def mothers_day(hello = "Happy Mother's Day, Mom!")
 end
 mothers_day
 
-def mothers_day(hello = "Happy Mother's Day,")
-  puts "#{hello}" get.strip
+def mothers_day(hello = "Happy Mother's Day," gets.strip)
+  puts "#{hello}"
 end
 mothers_day
